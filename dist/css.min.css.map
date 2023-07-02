@@ -1,0 +1,1 @@
+{"version":3,"sources":["css.scss"],"names":[],"mappings":"AAAA,KACE,WAAY,KACZ,SAAU,OACV,OAAQ","file":"css.min.css","sourcesContent":["body {\n  background: #000;\n  overflow: hidden;\n  margin: 0;\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["css.scss"],"sourcesContent":["body {\n  background: #000;\n  overflow: hidden;\n  margin: 0;\n}"],"file":"css.css"}
